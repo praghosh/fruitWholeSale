@@ -1,0 +1,1 @@
+jar cmf  manifest.mf nmfc.jar bin lib
