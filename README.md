@@ -1,2 +1,2 @@
 # fruitWholeSale
-Java Stand Alone Application for wholesale application
+Java Stand Alone Application for wholesale product
